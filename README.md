@@ -1,4 +1,4 @@
-### Hi there 👋, I'm RascaI!
+### Hey there 👋, I'm RascaI!
 
 <a href="https://twitter.com/rascaI">
   <img align="left" alt="Shinichi Okada | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
